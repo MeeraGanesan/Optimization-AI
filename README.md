@@ -1,6 +1,6 @@
 # Optimization-AI
 
-Note: Code is kept private, but made available on a need-to-know basis.
+Note: Code is kept private.
 
 This project implements algorithms to solve optimization problems formulated as linear and integer programming problems. 
 Here is a list of them:
