@@ -1,6 +1,6 @@
 # Optimization-AI
 
-Note: Code is kept private. Attributed to UC Berkeley (http://ai.berkeley.edu)
+Note: Code is kept private, can show on a need-to-know basis. Attributed to UC Berkeley (http://ai.berkeley.edu)
 
 This project implements algorithms to solve optimization problems formulated as linear and integer programming problems. 
 Here is a list of them:
